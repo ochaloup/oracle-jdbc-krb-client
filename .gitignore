@@ -50,7 +50,7 @@ local-repo-eap
 arquillian/*/server.log*
 build/src/main/.DS_Store
 build/src/main/resources/.DS_Store
-lib/*
+#lib/*
 
 # Zanata files
 **/.zanata-cache/
