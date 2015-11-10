@@ -1,0 +1,1801 @@
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping getMappings
+TRACE_30:          Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5F798997 Enter: 0, 0, "00000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5F798997 Exit [0.025948ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 24384979 Enter: 1, 1, "23000", SQLINTEGRITYCONSTRAINTVIOLATIONEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 24384979 Exit [0.007794ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6B5FB982 Enter: 22, 22, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6B5FB982 Exit [0.006642ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 598C3CE0 Enter: 23, 23, "61000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 598C3CE0 Exit [0.006367ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5F0C40E Enter: 28, 28, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5F0C40E Exit [0.00629ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1D7762E Enter: 45, 45, "08006", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1D7762E Exit [0.009902ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 688FC6F3 Enter: 100, 100, "02000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 688FC6F3 Exit [0.009797ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 374EB126 Enter: 251, 251, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 374EB126 Exit [0.009994ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: F505228 Enter: 603, 603, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: F505228 Exit [0.00948ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6241C7F2 Enter: 911, 911, "22019", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6241C7F2 Exit [0.009966ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4CAE1343 Enter: 1013, 1013, "72000", SQLTIMEOUTEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4CAE1343 Exit [0.009732ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3872BB09 Enter: 1025, 1025, "22023", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3872BB09 Exit [0.009455ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 745568D2 Enter: 1031, 1031, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 745568D2 Exit [0.008809ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1354EEA9 Enter: 1033, 1033, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1354EEA9 Exit [0.009727ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2D00A329 Enter: 1034, 1034, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2D00A329 Exit [0.010035ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4D7EFD4 Enter: 1089, 1089, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4D7EFD4 Exit [0.011419ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3779E7CE Enter: 1090, 1090, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3779E7CE Exit [0.011195ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2461A1D6 Enter: 1092, 1092, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2461A1D6 Exit [0.010219ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5C7FB43 Enter: 1095, 1095, "02000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5C7FB43 Exit [0.010353ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: C40EEAC Enter: 1400, 1400, "23000", SQLINTEGRITYCONSTRAINTVIOLATIONEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: C40EEAC Exit [0.010024ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7AF5647C Enter: 1401, 1401, "22001", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7AF5647C Exit [0.010335ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 49847F5 Enter: 1402, 1402, "44000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 49847F5 Exit [0.010054ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 299C282E Enter: 1403, 1403, "02000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 299C282E Exit [0.006827ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4B11F959 Enter: 1405, 1405, "22002", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4B11F959 Exit [0.006606ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 9096890 Enter: 1406, 1406, "22001", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 9096890 Exit [0.00967ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 48AFCA92 Enter: 1410, 1410, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 48AFCA92 Exit [0.007134ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: D1C5C86 Enter: 1411, 1411, "22022", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: D1C5C86 Exit [0.00679ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 40FE6823 Enter: 1422, 1422, "21000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 40FE6823 Exit [0.006649ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7E66F32A Enter: 1424, 1424, "22025", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7E66F32A Exit [0.006503ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 18E68B3B Enter: 1425, 1425, "22019", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 18E68B3B Exit [0.006497ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 47BEDB42 Enter: 1426, 1426, "22003", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 47BEDB42 Exit [0.008639ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 432CEEDA Enter: 1427, 1427, "21000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 432CEEDA Exit [0.006699ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3AF54CAA Enter: 1438, 1438, "22003", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3AF54CAA Exit [0.006608ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3E7C4B23 Enter: 1455, 1455, "22003", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3E7C4B23 Exit [0.006582ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 522906E1 Enter: 1457, 1457, "22003", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 522906E1 Exit [0.006623ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 382C7EB Enter: 1476, 1476, "22012", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 382C7EB Exit [0.006741ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7F131719 Enter: 1488, 1488, "22023", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7F131719 Exit [0.006711ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3E51AB7C Enter: 2100, 2100, "82100", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3E51AB7C Exit [0.008673ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 63D179DA Enter: 2101, 2101, "82101", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 63D179DA Exit [0.006596ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4D970A68 Enter: 2102, 2102, "82102", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4D970A68 Exit [0.006314ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 772C59A3 Enter: 2103, 2103, "82103", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 772C59A3 Exit [0.006439ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: B11975 Enter: 2104, 2104, "82104", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: B11975 Exit [0.00833ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6AFE50AD Enter: 2105, 2105, "82105", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6AFE50AD Exit [0.00677ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5E62C4BB Enter: 2106, 2106, "82106", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5E62C4BB Exit [0.00659ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 26620166 Enter: 2107, 2107, "82107", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 26620166 Exit [0.009526ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6C49E339 Enter: 2108, 2108, "82108", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6C49E339 Exit [0.006905ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 66E4EAB9 Enter: 2109, 2109, "82109", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 66E4EAB9 Exit [0.006278ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3EEE4C75 Enter: 2110, 2110, "82110", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3EEE4C75 Exit [0.006587ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: EDDB59A Enter: 2111, 2111, "82111", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: EDDB59A Exit [0.006717ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7DBD9915 Enter: 2112, 2112, "21000", SQLINTEGRITYCONSTRAINTVIOLATIONEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7DBD9915 Exit [0.006508ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2A8D7231 Enter: 2113, 2113, "82112", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2A8D7231 Exit [0.006458ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2C4404CA Enter: 2114, 2114, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2C4404CA Exit [0.006453ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2596807A Enter: 2115, 2115, "82113", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2596807A Exit [0.006727ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3BCCDCDD Enter: 2116, 2116, "82114", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3BCCDCDD Exit [0.006639ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6B84FD7 Enter: 2117, 2117, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6B84FD7 Exit [0.006608ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2E81AFB3 Enter: 2118, 2118, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2E81AFB3 Exit [0.006851ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4436289F Enter: 2119, 2119, "82115", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4436289F Exit [0.006526ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3FA501B5 Enter: 2120, 2120, "82116", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3FA501B5 Exit [0.006569ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6A1332B7 Enter: 2121, 2121, "08003", SQLNONTRANSIENTCONNECTIONEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6A1332B7 Exit [0.006564ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1266C2C9 Enter: 2122, 2122, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1266C2C9 Exit [0.006615ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 187E238F Enter: 2123, 2123, "82118", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 187E238F Exit [0.0064ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1508DD9 Enter: 2124, 2124, "21002", SQLINTEGRITYCONSTRAINTVIOLATIONEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1508DD9 Exit [0.010576ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4F90A23B Enter: 2125, 2125, "82119", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4F90A23B Exit [0.010589ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 208AF84C Enter: 2126, 2126, "07008", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 208AF84C Exit [0.010528ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3B35645 Enter: 2127, 2127, "82120", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3B35645 Exit [0.010045ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 72E4CDE8 Enter: 2129, 2129, "82121", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 72E4CDE8 Exit [0.01014ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: B8A7546 Enter: 2130, 2130, "82122", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: B8A7546 Exit [0.010249ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2F194C95 Enter: 2131, 2131, "82123", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2F194C95 Exit [0.006664ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 25F2E25B Enter: 2132, 2132, "82124", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 25F2E25B Exit [0.006422ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6CEAD7D3 Enter: 2133, 2133, "82125", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6CEAD7D3 Exit [0.006572ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2DFF9582 Enter: 2134, 2134, "82126", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2DFF9582 Exit [0.008971ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 66B0A165 Enter: 3113, 3113, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 66B0A165 Exit [0.01044ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5634228E Enter: 3114, 3114, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5634228E Exit [0.015986ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 78C8C4D8 Enter: 8006, 8006, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 78C8C4D8 Exit [0.007231ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 44F37EDB Enter: 12514, 12514, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 44F37EDB Exit [0.006471ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4E0D7F3A Enter: 16456, 16456, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4E0D7F3A Exit [0.006657ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 581BE0DE Enter: 17000, 17000, "00000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 581BE0DE Exit [0.00649ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: E483C03 Enter: 17002, 17002, "08006", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: E483C03 Exit [0.006526ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 285BF048 Enter: 17008, 17008, "08003", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 285BF048 Exit [0.006511ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2BFC1BAB Enter: 17024, 17024, "02000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2BFC1BAB Exit [0.006803ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 347C8E1C Enter: 17079, 17079, "08000", SQLNONTRANSIENTCONNECTIONEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 347C8E1C Exit [0.006557ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5D55EB2F Enter: 17089, 17089, "72000", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5D55EB2F Exit [0.010657ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 33C38A88 Enter: 17162, 17162, "99999", SQLFEATURENOTSUPPORTEDEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 33C38A88 Exit [0.011184ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6ABC0144 Enter: 17253, 17253, "00000", SQLCLIENTINFOEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6ABC0144 Exit [0.011127ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5CF74E1A Enter: 17410, 17410, "08000", SQLRECOVERABLEEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5CF74E1A Exit [0.010767ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7028BCA4 Enter: 18, 21, "61000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7028BCA4 Exit [0.010915ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 278EC83 Enter: 24, 35, "61000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 278EC83 Exit [0.010762ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 50EF8DB9 Enter: 50, 68, "61000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 50EF8DB9 Exit [0.011065ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1F419632 Enter: 101, 120, "62000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1F419632 Exit [0.010813ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: AEBBCA6 Enter: 150, 159, "63000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: AEBBCA6 Exit [0.010386ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7AAE3BE3 Enter: 200, 369, "64000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7AAE3BE3 Exit [0.010482ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 44DDF301 Enter: 370, 429, "60000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 44DDF301 Exit [0.010196ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 477CE9F9 Enter: 430, 439, "67000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 477CE9F9 Exit [0.010341ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 59E4FF19 Enter: 440, 569, "62000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 59E4FF19 Exit [0.010732ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4927F06A Enter: 570, 599, "69000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4927F06A Exit [0.010646ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5D18E4AB Enter: 600, 899, "60000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5D18E4AB Exit [0.010386ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: D4CC64D Enter: 900, 999, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: D4CC64D Exit [0.009907ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2B6EF00D Enter: 1000, 1099, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2B6EF00D Exit [0.006996ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 51FBC2 Enter: 1001, 1003, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 51FBC2 Exit [0.006843ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6677DB8 Enter: 1100, 1250, "64000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6677DB8 Exit [0.007045ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 746EBE50 Enter: 1402, 1478, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 746EBE50 Exit [0.006788ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1290B1E8 Enter: 1479, 1480, "22024", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1290B1E8 Exit [0.007107ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 598FFFDD Enter: 1481, 1489, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 598FFFDD Exit [0.007063ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7CE7341A Enter: 1490, 1493, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7CE7341A Exit [0.00688ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2F0DD706 Enter: 1494, 1499, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2F0DD706 Exit [0.006879ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 359FE30C Enter: 1500, 1699, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 359FE30C Exit [0.006473ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 13F34455 Enter: 1700, 1799, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 13F34455 Exit [0.008959ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 480B32AE Enter: 1800, 1899, "22008", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 480B32AE Exit [0.010428ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 572C6275 Enter: 2091, 2092, "40000", SQLTRANSACTIONROLLBACKEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 572C6275 Exit [0.007337ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 22F41C09 Enter: 1900, 2099, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 22F41C09 Exit [0.006864ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 485CA4CC Enter: 2140, 2289, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 485CA4CC Exit [0.00691ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3A477231 Enter: 2290, 2299, "23000", SQLINTEGRITYCONSTRAINTVIOLATIONEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3A477231 Exit [0.006663ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 289A0CDB Enter: 2376, 2399, "61000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 289A0CDB Exit [0.006468ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 19C212B0 Enter: 2400, 2419, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 19C212B0 Exit [0.006403ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1458EE06 Enter: 2420, 2424, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 1458EE06 Exit [0.00678ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5A72D659 Enter: 2425, 2449, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5A72D659 Exit [0.006482ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 29569B73 Enter: 2450, 2499, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 29569B73 Exit [0.006832ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 74F7B038 Enter: 2700, 2899, "63000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 74F7B038 Exit [0.006534ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 31526886 Enter: 3000, 3099, "0A000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 31526886 Exit [0.006361ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 194C4EB6 Enter: 3100, 3199, "63000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 194C4EB6 Exit [0.006807ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 60C39BB3 Enter: 3276, 3299, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 60C39BB3 Exit [0.006638ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4A233666 Enter: 4000, 4019, "22023", SQLDATAEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4A233666 Exit [0.006572ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4DC88890 Enter: 4020, 4039, "61000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4DC88890 Exit [0.006424ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 287DCDD5 Enter: 4040, 4059, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 287DCDD5 Exit [0.006606ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5B546FB7 Enter: 4060, 4069, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5B546FB7 Exit [0.006556ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4728639 Enter: 4070, 4099, "42000", SQLSYNTAXERROREXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 4728639 Exit [0.01022ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7ACA0A76 Enter: 6000, 6149, "66000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7ACA0A76 Exit [0.019154ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 667507F4 Enter: 6200, 6249, "63000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 667507F4 Exit [0.01032ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: D5D58B9 Enter: 6250, 6429, "66000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: D5D58B9 Exit [0.006802ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6B6BE089 Enter: 6430, 6449, "60000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6B6BE089 Exit [0.006258ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 77627977 Enter: 6511, 6511, "24000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 77627977 Exit [0.005581ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6214B0DC Enter: 6500, 6599, "65000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6214B0DC Exit [0.006087ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3C676DD2 Enter: 6600, 6999, "66000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3C676DD2 Exit [0.006144ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2A5B14F9 Enter: 7000, 7199, "69000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 2A5B14F9 Exit [0.005937ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 41BDFD28 Enter: 7200, 7999, "60000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 41BDFD28 Exit [0.006368ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 20376ED0 Enter: 8000, 8190, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 20376ED0 Exit [0.008241ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 174C2A36 Enter: 9700, 9999, "60000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 174C2A36 Exit [0.006227ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 9674B2D Enter: 10000, 10999, "90000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 9674B2D Exit [0.006064ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5C787C2D Enter: 12000, 12019, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 5C787C2D Exit [0.006089ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6A209DC8 Enter: 12100, 12299, "66000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 6A209DC8 Exit [0.005947ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 356EBE7 Enter: 12300, 12499, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 356EBE7 Exit [0.006156ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3F998C67 Enter: 12500, 12599, "66000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 3F998C67 Exit [0.005971ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 79D0DECF Enter: 17000, 17499, "99999", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 79D0DECF Exit [0.00572ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7FD42683 Enter: 12700, 21999, "72000", SQLEXCEPTION
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping <init>
+TRACE_30: 7FD42683 Exit [0.005727ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping getMappings
+TRACE_30:          Return: [Loracle.jdbc.driver.SQLStateMapping;@412ca405
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.SQLStateMapping getMappings
+TRACE_30:          Exit [132.683229ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.DatabaseError findMessage
+TRACE_30:          Enter: "DiagnosabilityMBeanDescription", oracle.jdbc.driver.OracleDiagnosabilityMBean@59c465b0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.Message11 msg
+TRACE_30: 215E62A Enter: "DiagnosabilityMBeanDescription", oracle.jdbc.driver.OracleDiagnosabilityMBean@59c465b0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.Message11 msg
+TRACE_30: 215E62A Exit [1.781937ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.DatabaseError findMessage
+TRACE_30:          Return: Controls the diagnosabilty features of the Oracle JDBC drivers.: oracle.jdbc.driver.OracleDiagnosabilityMBean@59c465b0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.DatabaseError findMessage
+TRACE_30:          Exit [3.791002ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.DatabaseError findMessage
+TRACE_30:          Enter: "DiagnosabilityMBeanLoggingEnabledDescription", oracle.jdbc.driver.OracleDiagnosabilityMBean@59c465b0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.Message11 msg
+TRACE_30: 215E62A Enter: "DiagnosabilityMBeanLoggingEnabledDescription", oracle.jdbc.driver.OracleDiagnosabilityMBean@59c465b0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.Message11 msg
+TRACE_30: 215E62A Exit [0.010544ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.DatabaseError findMessage
+TRACE_30:          Return: All Oracle JDBC logging code is controlled by this boolean attribute. If false, no log messages will be produced. If true, log messages will be controlled by java.util.logging Levels and Filters.: oracle.jdbc.driver.OracleDiagnosabilityMBean@59c465b0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.DatabaseError findMessage
+TRACE_30:          Exit [1.077115ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.OracleDriver connect
+FINE: 365468A1 Public Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11", {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.OracleDriver oracleDriverExtensionTypeFromURL
+FINER:          Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11"
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.OracleDriver oracleDriverExtensionTypeFromURL
+FINER:          Return: 0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.OracleDriver oracleDriverExtensionTypeFromURL
+FINER:          Exit [0.330298ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemPropertySqlTranslationProfile
+TRACE_30:          Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.sqlTranslationProfile", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.637407ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemPropertySqlTranslationProfile
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemPropertySqlTranslationProfile
+TRACE_30:          Exit [1.657376ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.T4CDriverExtension getConnection
+TRACE_30: CEE5FE7 Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11", {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection <init>
+FINER: 28EA04CB Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11", {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, oracle.jdbc.driver.T4CDriverExtension@cee5fe7
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection readConnectionProperties
+FINER: 28EA04CB Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11", {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection initializeUserDefaults
+FINER: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection initializeUserDefaults
+FINER: 28EA04CB Exit [0.044618ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection readConnectionProperties
+FINER: 28EA04CB Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11", {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.RetainV9LongBindBehavior", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.589896ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.user", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.623705ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.database", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.594737ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.autoCommit", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.6128ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.bindUseDBA", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.589936ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.protocol", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.625446ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.StreamChunkSize", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.640686ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.SetFloatAndDoubleUseBinary", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.900811ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.v$session.terminal", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.709359ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.v$session.machine", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.628122ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.v$session.osuser", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.722057ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.v$session.program", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.587594ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.v$session.process", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.580419ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.v$session.iname", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.61025ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.v$session.ename", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.574425ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.profile", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.569762ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.kerberos5_cc_name", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.611432ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.encryption_client", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.599326ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.encryption_types_client", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.631805ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.crypto_checksum_client", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.591242ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.crypto_checksum_types_client", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.767961ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.crypto_seed", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.940977ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.TcpNoDelay", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.91612ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.ReadTimeout", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.960988ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.CONNECT_TIMEOUT", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.96127ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.disableOob", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.894343ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.useZeroCopyIO", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.865065ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.use1900AsYearForTime", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.886725ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.timestampTzInGmt", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.833232ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.timezoneAsRegion", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.753921ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.ssl_server_dn_match", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.567392ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.ssl_version", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.536057ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.ssl_cipher_suites", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.542514ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "javax.net.ssl.keyStore", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.541372ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "javax.net.ssl.keyStoreType", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.575109ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "javax.net.ssl.keyStorePassword", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.570496ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "javax.net.ssl.trustStore", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.590535ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "javax.net.ssl.trustStoreType", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.579534ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "javax.net.ssl.trustStorePassword", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.740741ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.ssl.keyManagerFactory.algorithm", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.937732ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.ssl.trustManagerFactory.algorithm", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.847696ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.oldSyntax", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.922617ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.com.sun.jndi.ldap.connect.timeout", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.831914ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.com.sun.jndi.ldap.read.timeout", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.851041ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.wallet_location", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.886494ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.wallet_password", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.869751ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.proxyClientName", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.559723ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.useNio", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.577478ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.JDBCDriverCharSetId", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.536591ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.editionName", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.537692ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.thinLogonCapability", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.54998ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.useOCIDefaultDefines", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.578475ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.internal_logon", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.560784ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.createDescriptorUseCurrentSchemaForSchemaName", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.580883ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.OCISvcCtxHandle", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.562064ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.OCIEnvHandle", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.542564ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.OCIErrHandle", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.534491ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.prelim_auth", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.564766ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.jmsNotification", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.577553ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.ociNlsLangBackwardCompatible", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.550514ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.OCINewPassword", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.591745ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.spawnNewThreadToCancel", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.546999ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.defaultExecuteBatch", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.542488ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.defaultRowPrefetch", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.542684ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.defaultLobPrefetchSize", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.813681ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.enableDataInLocator", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.814466ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.enableReadDataInLocator", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.562155ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.overrideEnableReadDataInLocator", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.550395ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.remarksReporting", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.525263ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.includeSynonyms", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.527848ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.restrictGetTables", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.519064ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.AccumulateBatchResult", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.526107ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.useFetchSizeWithLongColumn", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.856379ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.processEscapes", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.81995ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.fixedString", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.809123ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.defaultNChar", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.800851ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.internal.permitBindDateDefineTimestampMismatch", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.769883ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.RessourceManagerId", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.75346ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.disableDefineColumnType", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.53891ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.convertNcharLiterals", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.536055ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.autoCommitSpecCompliant", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.557753ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.JDBCStandardBehavior", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.513225ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.J2EE13Compliant", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.508948ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.mapDateToTimestamp", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.533901ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.useThreadLocalBufferCache", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.51081ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.driverNameAttribute", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.554843ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.maxCachedBufferSize", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.525746ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.implicitStatementCacheSize", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.529442ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.LobStreamPosStandardCompliant", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.530231ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.strictASCIIConversion", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.54329ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.quickASCIIConversion", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.54183ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.DRCPConnectionClass", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.537487ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.blockSourceImplementation", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.529985ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.thinForceDNSLoadBalancing", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.564793ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.enableTempLobRefCnt", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.529039ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.net.keepAlive", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.548672ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.sqlTranslationProfile", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.814275ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.sqlErrorTranslationFile", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.538788ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.javaNetNio", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [1.219314ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.nsDirectBuffer", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.848301ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.plsqlVarcharParameter4KOnly", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.840866ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.targetInstanceName", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.873609ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.enableOCIFastApplicationNotification", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.854417ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.enableResultSetCache", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.845734ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.backwardCompatibileUpdateableResultSet", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.833162ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.allowedLogonVersion", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.776136ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.commitOption", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.847201ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.calculateChecksum", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.832845ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.javaNetLocalIPForMsgq", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.852604ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.javaNetMsgqTransport", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.8434ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.javaNetMsgqBusyWait", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.846533ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.javaNetMsgqKernelWait", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.794219ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection readDeprecatedConnectionProperties
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "synonyms", 3, false
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "synonyms", 3, null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.synonyms", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.850178ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [2.060019ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: false
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [3.386365ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "remarks", 3, false
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "remarks", 3, null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.remarks", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.891074ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [2.157228ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: false
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [3.372348ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "prefetch", 3, 10
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "prefetch", 3, null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.prefetch", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.848292ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [2.138837ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: 10
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [3.42974ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "rowPrefetch", 3, 10
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "rowPrefetch", 3, null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.rowPrefetch", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.824784ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [2.129866ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: 10
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [3.405677ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "batch", 3, 1
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "batch", 3, null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.batch", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.856906ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [2.117819ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: 1
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [3.425493ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "executeBatch", 3, 1
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "executeBatch", 3, null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "oracle.jdbc.executeBatch", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.825701ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [2.17039ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: 1
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [3.52447ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Enter: {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, "PROXY_CLIENT_NAME", 1, null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection parseConnectionProperty
+TRACE_30: 28EA04CB Exit [0.461615ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection readDeprecatedConnectionProperties
+TRACE_30: 28EA04CB Exit [27.160765ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection readConnectionProperties
+FINER: 28EA04CB Exit [180.292694ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemPropertyUserName
+TRACE_30:          Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Enter: "user.name", null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection$1 run
+TRACE_30:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Return: ochaloup
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemProperty
+TRACE_30:          Exit [0.828717ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemPropertyUserName
+TRACE_30:          Return: ochaloup
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.GeneratedPhysicalConnection getSystemPropertyUserName
+TRACE_30:          Exit [2.129949ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection parseUrl
+FINER:          Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11"
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection parseUrl
+TRACE_20:          Debug: sub_sub_index=12, end=61, next_colon_index=16, _user=17, slash=-1, at_sign=17
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection getSecretStoreCredentials
+FINER:          Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection getSecretStoreCredentials
+FINER:          Return: [Ljava.lang.String;@420f70f1
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection getSecretStoreCredentials
+FINER:          Exit [0.489478ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection parseUrl
+FINER:          Return: {protocol=thin, database=db04.mw.lab.eng.bos.redhat.com:1521:qaora11}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection parseUrl
+FINER:          Exit [2.239155ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection parseLoginOption
+FINER:          Enter: null, {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection parseLoginOption
+FINER:          Return: null
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection parseLoginOption
+FINER:          Exit [0.40269ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.internal.OpaqueString newOpaqueString
+FINER:          Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.internal.OpaqueString <init>
+FINER: 0 Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.internal.OpaqueString <init>
+FINER: 0 Exit [0.021904ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.internal.OpaqueString newOpaqueString
+FINER:          Return: oracle.jdbc.internal.OpaqueString@0
+Nov 04, 2014 5:20:01 PM oracle.jdbc.internal.OpaqueString newOpaqueString
+FINER:          Exit [1.512034ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection validateConnectionProperties
+FINER: 28EA04CB Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection validateConnectionProperties
+FINER: 28EA04CB Exit [0.024145ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection readConnectionProperties
+FINER: 28EA04CB Exit [196.531044ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource createBlockSource
+TRACE_30:          Enter: false, THREADED
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource createBlockSource
+TRACE_30:          Enter: THREADED
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaserListener <init>
+TRACE_30: 4A23AA9C Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaserListener <init>
+FINEST: 4A23AA9C Debug: BlockSource.ThreadedCachingBlockSource.BlockReleaserListener.constructor-addNotificationListener
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaserListener <init>
+TRACE_10: 4A23AA9C Event: BlockSource.ThreadedCachingBlockSource.BlockReleaserListener.constructor-setCollectionUsageThreshold<PS Old Gen>(1842138316)
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaserListener <init>
+TRACE_30: 4A23AA9C Exit [2.170484ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource createBlockSource
+TRACE_30:          Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource createBlockSource
+TRACE_30:          Return: oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource@6b09e796
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource createBlockSource
+TRACE_30:          Exit [0.530177ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource createBlockSource
+TRACE_30:          Return: oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource@6b09e796
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource createBlockSource
+TRACE_30:          Exit [9.950376ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource createBlockSource
+TRACE_30:          Return: oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource@6b09e796
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource createBlockSource
+TRACE_30:          Exit [11.262615ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection <init>
+FINER: 28EA04CB Exit [211.320854ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.T4CConnection <init>
+FINER: 28EA04CB Enter: "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11", {oracle.net.kerberos5_mutual_authentication=true, oracle.net.authentication_services=(KERBEROS5)}, oracle.jdbc.driver.T4CDriverExtension@cee5fe7
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaser run
+TRACE_30: 7DF340B1 Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.T4CConnection <init>
+FINER: 28EA04CB Exit [10.134287ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection connect
+FINER: 28EA04CB Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection needLine
+FINER: 28EA04CB Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection needLineUnchecked
+FINER: 28EA04CB Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection needLineUnchecked
+FINER: 28EA04CB Exit [0.018483ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.PhysicalConnection needLine
+FINER: 28EA04CB Exit [0.888497ms]
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.T4CConnection logon
+FINER: 28EA04CB Enter: 
+Nov 04, 2014 5:20:01 PM oracle.jdbc.driver.T4CConnection connect
+FINER: 28EA04CB Enter: "db04.mw.lab.eng.bos.redhat.com:1521:qaora11"
+Nov 04, 2014 5:20:03 PM oracle.jdbc.driver.T4CConnection connect
+FINER: 28EA04CB Exit [1704.400058ms]
+Nov 04, 2014 5:20:03 PM oracle.jdbc.driver.T4CConnection logon
+FINER: 28EA04CB Exit [1705.245441ms]
+Nov 04, 2014 5:20:03 PM oracle.jdbc.driver.PhysicalConnection connect
+FINER: 28EA04CB Exit [1707.612758ms]
+Nov 04, 2014 5:20:03 PM oracle.jdbc.driver.T4CDriverExtension getConnection
+TRACE_30: CEE5FE7 Exit [2020.242116ms]
+Nov 04, 2014 5:20:03 PM oracle.jdbc.driver.OracleDriver connect
+FINE: 365468A1 Exit [2122.545448ms]
+Nov 04, 2014 5:20:03 PM krb.test.oracle.Main main
+SEVERE: 
+java.lang.ClassCastException: sun.security.jgss.GSSCredentialImpl cannot be cast to javax.security.auth.kerberos.KerberosTicket
+	at oracle.net.ano.AuthenticationService.a(Unknown Source)
+	at oracle.net.ano.AuthenticationService.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:415)
+	at oracle.net.ano.AuthenticationService.e(Unknown Source)
+	at oracle.net.ano.Ano.negotiation(Unknown Source)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:316)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1963)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:564)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:755)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:38)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:599)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:187)
+	at krb.test.oracle.Main$1.run(Main.java:96)
+	at krb.test.oracle.Main$1.run(Main.java:93)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:415)
+	at krb.test.oracle.Main.main(Main.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.codehaus.mojo.exec.ExecJavaMojo$1.run(ExecJavaMojo.java:290)
+	at java.lang.Thread.run(Thread.java:745)
+
