@@ -29,11 +29,11 @@ import java.util.logging.SimpleFormatter;
 public class Main {
     private static final Logger logger = Logger.getLogger(Main.class.getName());
     //oracle12c
-//    private static final String JDBC_URL = "jdbc:oracle:thin:@dev151.mw.lab.eng.bos.redhat.com:1521:qaora12";
+    private static final String JDBC_URL = "jdbc:oracle:thin:@dev151.mw.lab.eng.bos.redhat.com:1521:qaora12";
     //oracle11gR1
     //private static final String JDBC_URL = "jdbc:oracle:thin:@db03.mw.lab.eng.bos.redhat.com:1521:qaora11";
     //oracle11gR2
-    private static final String JDBC_URL = "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11";
+    //private static final String JDBC_URL = "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11";
 
     public static void main(String[] args) throws Exception {
         Logger oracleLogger = Logger.getLogger("oracle.jdbc");
