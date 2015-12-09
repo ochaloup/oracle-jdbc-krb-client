@@ -54,3 +54,5 @@ build/src/main/resources/.DS_Store
 
 # Zanata files
 **/.zanata-cache/
+
+log.txt

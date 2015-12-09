@@ -33,7 +33,7 @@ public class Main {
     //oracle11gR1
     //private static final String JDBC_URL = "jdbc:oracle:thin:@db03.mw.lab.eng.bos.redhat.com:1521:qaora11";
     //oracle11gR2
-    //private static final String JDBC_URL = "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11";
+    // private static final String JDBC_URL = "jdbc:oracle:thin:@db04.mw.lab.eng.bos.redhat.com:1521:qaora11";
 
     public static void main(String[] args) throws Exception {
         Logger oracleLogger = Logger.getLogger("oracle.jdbc");
@@ -93,26 +93,52 @@ public class Main {
             Connection conn = Subject.doAs(subject, new PrivilegedExceptionAction<Connection>() {
                 @Override
                 public Connection run() throws Exception {
+                    System.out.println("Connecting to: " + JDBC_URL + ", props: " + props);
                     return DriverManager.getConnection(JDBC_URL, props);
                 }
             });
 
-            printUserName(conn);
+            print(conn);
+            // create(conn);
             conn.close();
         } catch (Throwable t) {
             logger.log(Level.SEVERE, "", t);
         }
     }
 
-    private static void printUserName(Connection conn) throws SQLException {
+    private static void create(Connection conn) throws SQLException {
         Statement stmt = null;
         try {
             stmt = conn.createStatement();
-            ResultSet rs = stmt.executeQuery("select user from dual");
+            stmt.execute("CREATE TABLE testentity ( id VARCHAR(255), a INTEGER )");
+        } finally {
+            if (stmt != null)
+                stmt.close();
+        }
+    }
+
+    private static void print(Connection conn) throws SQLException {
+        Statement stmt = null;
+        try {
+            stmt = conn.createStatement();
+            // String query = "select * from testentity";
+            String query = "select table_name from user_tables";
+            // String query = "select owner, table_name from all_tables";
+            System.out.println("Query: " + query);
+            ResultSet rs = stmt.executeQuery(query);
+            int columnCount = rs.getMetaData().getColumnCount();
+            System.out.println("Result set is: " + rs);
+            int row = 1;
             while (rs.next()) {
-                String user = rs.getString(1);
-                System.out.println("User is: " + user);
-                logger.log(Level.INFO, "User is: " + user);
+                StringBuffer output = new StringBuffer();
+                for(int i=1; i<=columnCount; i++) { 
+                  // String user = rs.getString(1);
+                  // System.out.println("User is: " + user);
+                  // logger.log(Level.INFO, "User is: " + user);
+                  output.append("|" + rs.getObject(i).toString()); 
+                }
+                System.out.println(row + output.toString());
+                row++;
             }
             rs.close();
         } finally {
